@@ -1,0 +1,1 @@
+# Conversor-Latin-UTF8
